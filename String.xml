@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DropDown</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="CountryName">
+        <item>click here</item>
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Nepal</item>
+    </string-array>
+
+    <string name="Aboutme">Iam Subarna Akter Liza.
+        My ID is 182-15--2099.
+        I love Android Development.
+        On the Other hand I also know PHP web development,wordpress CMS,Iam skilled in C,Java programming language and HTML,CSS,Javascript also.
+    </string>
+</resources>
